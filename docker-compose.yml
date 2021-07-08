@@ -13,5 +13,5 @@ services:
       - 10050:10050
       - 10051:10051
     environment:
-      - ZBX_HOSTNAME=192.168.226.129
-      - ZBX_SERVER_HOST=192.168.226.129
+      - ZBX_HOSTNAME=name
+      - ZBX_SERVER_HOST=ip-server
